@@ -159,7 +159,7 @@ https://knkomko.hatenablog.com/entry/2019/10/01/193804
 ## 参考文献
 - [令和2年における山岳遭難の概況](https://www.npa.go.jp/publications/statistics/safetylife/chiiki/R02sangakusounan_gaikyou.pdf)
 
-
+- [触覚ディスプレイ](https://kaji-lab.jp/ja/index.php?plugin=attach&refer=people%2Fkaji%2Fpublications&openfile=tactile.pdf)
 
 
 ---
