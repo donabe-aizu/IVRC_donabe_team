@@ -1,3 +1,4 @@
+###### tags: `IVRC`
 # 遭難体験企画書
 
 ## はじめに
@@ -47,6 +48,16 @@ https://www.npa.go.jp/publications/statistics/safetylife/chiiki/R02sangakusounan
 - 気軽に行くべきではない
 - 準備の大切さ
 - 近場、低い山、その油断が一番危ない
+
+増加原因
+- 登山者が減少しているのにも関わらず、増加している
+- 登山者の高齢化
+- 近年は近場、低山
+    - コロナ禍の体力低下
+    - 油断
+        - 地図やライトを持たない
+        - 服装や装備も適当
+        - 計画を立てていない
 
 ゲーム性を取り入れる
 
@@ -222,6 +233,16 @@ http://www.soumu.go.jp/main_content/000323209.pdf
 
 - [触覚ディスプレイ](https://kaji-lab.jp/ja/index.php?plugin=attach&refer=people%2Fkaji%2Fpublications&openfile=tactile.pdf)
 
+
+### 低体温症
+https://sangakujro.com/%E6%95%91%E6%80%A5%E6%B3%95%EF%BC%9A%E4%BD%8E%E4%BD%93%E6%B8%A9%E7%97%87/
+
+https://yamahack.com/2743
+
+https://www.jbpo.or.jp/crossheart/maintenance/14/
+
+### 冷却ベスト
+https://www.monotaro.com/k/store/%E6%B0%B4%E5%86%B7%E5%86%B7%E5%8D%B4%E3%82%AF%E3%83%BC%E3%83%AB%E3%83%99%E3%82%B9%E3%83%88/
 
 ---
 
